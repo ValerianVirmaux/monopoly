@@ -2,6 +2,7 @@ package com.vinz.monopoly;
 
 Bite
 Bite ^
+Bite3
 import java.util.ArrayList;
 import java.util.Arrays;
 
